@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elias Kayser!
+- 👋 Hi, I’m Leo Kayser!
 - 👀 I’m interested in Algebraic Geometry, Complexity Theory and LaTeX
 - 📝 I’m currently writing my master's thesis on the *Waring problem for polynomials*
 
