@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo Kayser!
 - 👀 I’m interested in Algebraic Geometry, Complexity Theory and LaTeX
-- 📝 I’m currently writing my master's thesis on the *Waring problem for polynomials*
+- 📝 I’m wrote my master's thesis in mathematics on the *Waring problem for polynomials* and my thesis in computer science on *Gröbner Bases and Their Complexity*
 
 <!---
 ELKayser/ELKayser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
