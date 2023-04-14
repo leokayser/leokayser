@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leo Kayser, a PhD student at MPI MiS Leipzig!
+- 👋 Hi, I’m Leonie Kayser, a PhD student at MPI MiS Leipzig!
 - 👀 I’m interested in Algebraic Geometry, Complexity Theory and LaTeX
 - 📝 I’m wrote my master's thesis in mathematics on the *Waring problem for polynomials* and my thesis in computer science on *Gröbner Bases and Their Complexity*
 
